@@ -51,28 +51,3 @@ outros vetores.
 
 15. Foram anotadas as idades e alturas de 30 alunos. Faça um Programa que determine quantos
 alunos com mais de 13 anos possuem altura inferior à média de altura desses alunos.
-
-16. Faça um programa que use um vetor de tamanho N (constante), peça ao usuário para
-informar os valores que devem ser validados, somente devem ser aceitos valores entre 0 e 20
-(inclusive 0 e 20). Após isto deve ser gerado um gráfico com cada um dos valores conforme
-o exemplo abaixo (levando em consideração que os valores informados no vetor foram 4, 2
-    
-            1:
-            4: ####
-            2:##
-            1:#
-
-17. Projeto em Dupla – Crie uma agenda de contatos usando as estruturas de vetores, ela deve
-armazenar no mínimo 10 contatos, e deve ter a informação do nome, telefone, celular, e-
-mail, Data de Nascimento.
-    
-    A agenda deve permitir consultas por:
-    
-    - Nome e Sobrenome;
-    - Aniversários do mês (mês será informado);
-    
-    Gerar um relatório com todos os contatos (cuidar com a formatação);
-    
-    Isto é mínimo que será pedido, você pode incrementar a agenda com os elementos e recursos
-    que quiser. Não esquecendo que é básico de qualquer sistema de cadastro permitir Inclusão,
-    Alteração, Consulta, Relatório e Exclusão. Obs: Utilize gravação/leitura de arquivo texto para simular a existência de um banco de dados.
